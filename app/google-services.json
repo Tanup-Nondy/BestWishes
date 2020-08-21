@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "262360474198",
+    "firebase_url": "https://best-wishes-c84f4.firebaseio.com",
+    "project_id": "best-wishes-c84f4",
+    "storage_bucket": "best-wishes-c84f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262360474198:android:f05110c30680eaead211f7",
+        "android_client_info": {
+          "package_name": "com.example.bestwishes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262360474198-q8nq0npr1sqo0lu6633pcccbtgupjci3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bestwishes",
+            "certificate_hash": "c0753cbc8fbb8135b27d823f6e7bd87b7be73443"
+          }
+        },
+        {
+          "client_id": "262360474198-p709tum05qi2j9ihtral5kq2skg8hn9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZn8eVuB3GMIB7UYTOwMEICtQfA1DzUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262360474198-p709tum05qi2j9ihtral5kq2skg8hn9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

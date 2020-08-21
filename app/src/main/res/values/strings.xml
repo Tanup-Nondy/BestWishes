@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Best Wishes</string>
+    <string name="hbd">
+        <br>Happy Birthday</br>
+        <br>To</br>
+    </string>
+</resources>
